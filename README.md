@@ -3,9 +3,12 @@
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/ccc75e53-565f-4b31-af67-6b04ea94f56b.svg)](https://wakatime.com/@ccc75e53-565f-4b31-af67-6b04ea94f56b)
 
-
-<img src="https://img.shields.io/badge/.NET-E34F26?style=for-the-badge&logo=.NET&logoColor=#512BD4">
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/.NET-E34F26?style=for-the-badge&logo=.NET&logoColor=#512BD4">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 <!--
 **lovh/lovh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
