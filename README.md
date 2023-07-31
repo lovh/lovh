@@ -1,7 +1,7 @@
 # Hi there 👋
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+[![wakatime](https://wakatime.com/badge/user/ccc75e53-565f-4b31-af67-6b04ea94f56b.svg)](https://wakatime.com/@ccc75e53-565f-4b31-af67-6b04ea94f56b)
 
 <!--
 **lovh/lovh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
