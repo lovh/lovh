@@ -5,6 +5,7 @@
 
 
 <img src="https://img.shields.io/badge/.NET-E34F26?style=for-the-badge&logo=.NET&logoColor=#512BD4">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <!--
 **lovh/lovh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
